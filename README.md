@@ -2,7 +2,7 @@
 
 I'm an undergraduate studying Computer Science at the University of Minnesota - TC
 
-I'm teaching robots how to navigate and interact with the world
+I'm teaching robots how to interact with the world
 <!--
 **aditKadepurkar/aditKadepurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
