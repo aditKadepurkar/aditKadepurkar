@@ -4,6 +4,9 @@ I'm an undergraduate studying Computer Science at the University of Minnesota - 
 
 I'm teaching robots how to interact with the world and sending rockets to space!
 
+
+[![Adit's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditkadepurkar&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **aditKadepurkar/aditKadepurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
