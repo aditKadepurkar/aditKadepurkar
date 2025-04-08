@@ -2,7 +2,7 @@
 
 I'm an undergraduate studying Computer Science at the University of Minnesota - TC
 
-I'm teaching robots how to interact with the world and sending rockets to space!
+I'm interested in exploring autonomy in all forms — robots, rockets, autonomous vehicles, and hopefully somethings beyond.
 
 
 [![Adit's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditkadepurkar&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
